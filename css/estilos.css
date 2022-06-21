@@ -1,0 +1,112 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-image: url(../img/fondo2.jpg);
+    font-family: sans-serifñ;
+}
+.principal{
+    text-align: center;
+    margin: 6% auto;
+    padding: 10px 25px 80px 10px; 
+    background-color: white; 
+    height:auto;
+    width: 35%;
+    border-radius: 10px;
+}
+.principal section form .icon{
+    margin: 0px 0px 20px 0px;
+    margin-left: 20px;
+    width: 90%;
+    height: 30x;
+    float: center;
+    padding: auto;
+    display: inline-flex;
+    border: 2px solid rgb(34, 76, 194);
+}
+.principal section form .icon img{
+    margin: 13px 0px 10px 15px;
+    width: 27px; 
+    height: 22px;
+}
+.principal section form .icon .imgt{
+    margin: 100px 0px 5px 5px;
+    width: 27px; 
+    height: 22px;
+}
+.principal section form .icon .file1{
+    margin: 13px 0px 10px 15px;
+    width: 32px; 
+    height: 30px;
+}
+.principal section form .icon .texto{
+    width: 90%;
+    height: 25px;
+    padding: 10px;
+    font-size: 16px;
+    margin-left: 20px;
+    border: transparent;
+}
+.principal section form .icon .texto:hover{
+    border: none;
+}
+.principal section form .icon .texto:focus{
+    border: none;
+}
+.principal section form .icon .texto:active{
+    border: none;
+}
+.principal section form .boton{
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-bottom: 30px;
+    padding: 10px 75px ;
+    background-color: #37ddb9;
+    color: white;
+    width: 91%; 
+    height: 55px;
+    border-radius: 6px;
+    font-size: 20px;
+    }
+    .principal section form .icon .listado{
+    width: 90%;
+    height: 25px;
+    padding: auto;
+    font-size: 16px;
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border: transparent;
+    }
+    .principal section form .icon .file{
+    width: 90%;
+    height: 25px;
+    padding: auto;
+    font-size: 16px;
+    margin-top: 15px;
+    margin-left: 15px;
+    border: transparent;
+
+    }
+    .principal section form .icon .resumen{
+
+    width: 90%;
+    height: auto;
+    padding: 10px;
+    font-size: 16px;
+    margin-left: 20px;
+    border: none;
+    }
+    .principal section form .img{
+        position: relative;
+        outline: none;
+    }
+.principal section form h3{
+    padding-top: 20px;
+    font-size: 35px;
+    margin-bottom: 30px;
+}
+.principal section form  p strong a{
+    text-decoration: none;
+}
